@@ -1,0 +1,4 @@
+baseURL = 'https://pen-y-fan.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Pen-y-Fan site'
+theme = 'ananke'
