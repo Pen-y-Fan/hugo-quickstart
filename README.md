@@ -22,6 +22,15 @@ e.g.
 
 ```sh
 clone git@github.com:Pen-y-Fan/hugo-quickstart.git
+cd hugo-quickstart
+```
+
+### Add theme
+
+The theme has been included as a git submodule, it needs to be initialised too.
+
+```shell
+git submodule update --init
 ```
 
 ## Commands
